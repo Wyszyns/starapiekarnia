@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "htmlLang": "en",
+    "ogLocale": "en_GB",
+    "title": "Stara Piekarnia — apartment on the market square in Tylicz",
+    "description": "80 m² apartment right on the market square in Tylicz, Poland. 3 bedrooms, sleeps 8, 500 m from the Master-Ski slope. Rated {score}/10 on Booking.com. Free parking and WiFi.",
+    "keywords": "apartment Tylicz, Tylicz accommodation, Stara Piekarnia Tylicz, ski apartment Tylicz, Master-Ski accommodation, Krynica-Zdrój apartment",
+    "ogTitle": "Stara Piekarnia — apartment on the market square in Tylicz",
+    "ogDescription": "Self-contained 80 m² apartment on the market square in Tylicz. 3 bedrooms, sleeps 8, 500 m from the Master-Ski slope.",
+    "schemaDescription": "Self-contained 80 m² apartment with a private entrance on the market square in Tylicz. 3 bedrooms, living room with a sofa bed, full kitchen, bathroom with a shower. Sleeps 8. 500 m from the Master-Ski ski centre."
+  },
+  "langSwitch": {
+    "label": "Choose language"
+  },
+  "nav": [
+    {
+      "href": "#about",
+      "label": "Apartment"
+    },
+    {
+      "href": "#gallery",
+      "label": "Gallery"
+    },
+    {
+      "href": "#reviews",
+      "label": "Reviews"
+    },
+    {
+      "href": "#location",
+      "label": "Location"
+    },
+    {
+      "href": "#faq",
+      "label": "Good to know"
+    }
+  ],
+  "cta": {
+    "contact": "Contact us",
+    "seePhotos": "See photos",
+    "call": "Call"
+  },
+  "a11y": {
+    "logo": "Stara Piekarnia logo",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "prevReviews": "Previous reviews",
+    "nextReviews": "Next reviews",
+    "close": "Close",
+    "prevPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "photo": "Apartment photo",
+    "photoCounter": "{n} of {total}"
+  },
+  "hero": {
+    "subtitle": "Tylicz · right on the market square",
+    "text": "80 m² for up to 8 guests: 3 bedrooms, a living room with a sofa bed, a fully equipped kitchen and free parking. The Master-Ski slope is 500 m away, and restaurants and shops are a few steps from the door.",
+    "ratingBadge": "{label} · {count} · {source}"
+  },
+  "facts": [
+    {
+      "icon": "solar:home-angle-linear",
+      "label": "80 m²"
+    },
+    {
+      "icon": "solar:bed-linear",
+      "label": "3 bedrooms"
+    },
+    {
+      "icon": "solar:bath-linear",
+      "label": "Shower room"
+    },
+    {
+      "icon": "solar:users-group-rounded-linear",
+      "label": "Sleeps 8"
+    },
+    {
+      "icon": "mdi:parking",
+      "label": "Free parking"
+    },
+    {
+      "icon": "mdi:wifi",
+      "label": "Free WiFi"
+    }
+  ],
+  "about": {
+    "eyebrow": "The apartment",
+    "title": "A self-contained apartment in the heart of Tylicz",
+    "text": "Stara Piekarnia (“The Old Bakery”) is a whole apartment just for you, with its own entrance, right by the market square. In winter the Master-Ski slope is close by and free ski buses run around the village. In summer there are mountain and cycling trails, natural mofette springs and the lookout tower in Krynica. A great base for a family holiday or a weekend with friends.",
+    "imgLiving": "Living room with a sofa and kitchenette",
+    "imgKitchen": "Fully equipped kitchen"
+  },
+  "amenities": [
+    {
+      "icon": "solar:bed-linear",
+      "title": "3 bedrooms",
+      "text": "A double plus a single, two singles, and a large double bed. Sofa bed in the living room."
+    },
+    {
+      "icon": "solar:bath-linear",
+      "title": "Bathroom",
+      "text": "Shower, hairdryer, towels and bed linen provided."
+    },
+    {
+      "icon": "solar:chef-hat-linear",
+      "title": "Full kitchen",
+      "text": "Dishwasher, fridge, hob, microwave, kettle and a full set of kitchenware."
+    },
+    {
+      "icon": "solar:tv-linear",
+      "title": "Living room",
+      "text": "TV with satellite channels and a streaming service, a sofa and a table for the whole group."
+    },
+    {
+      "icon": "mdi:washing-machine",
+      "title": "Washing machine and iron",
+      "text": "Plus a clothes drying rack. Handy for longer stays."
+    },
+    {
+      "icon": "mdi:teddy-bear",
+      "title": "For families",
+      "text": "Free cot (0–3 years), board games and children's books."
+    },
+    {
+      "icon": "mdi:paw",
+      "title": "Pets",
+      "text": "Welcome by arrangement. Bowls and a pet bed are provided."
+    },
+    {
+      "icon": "solar:key-linear",
+      "title": "Private entrance",
+      "text": "The apartment is self-contained. Check in and out without a reception desk."
+    }
+  ],
+  "gallery": {
+    "title": "Photo gallery",
+    "hint": "Click a photo to enlarge it."
+  },
+  "reviews": {
+    "title": "What our guests say",
+    "summary": "{label} · {count}",
+    "quote": "“{text}”",
+    "swipeHint": "Swipe to see more",
+    "translatedFrom": {
+      "pl": "Translated from Polish",
+      "en": "Translated from English"
+    },
+    "countForms": {
+      "one": "{n} review",
+      "few": "{n} reviews",
+      "many": "{n} reviews",
+      "other": "{n} reviews"
+    }
+  },
+  "location": {
+    "title": "Location",
+    "text": "Rynek 23, in the very centre of Tylicz. The slope, restaurants, shops, the post office and the church are all a short walk away.",
+    "nearbyTitle": "Restaurants nearby",
+    "openInMaps": "Open in Google Maps",
+    "mapTitle": "Map: Stara Piekarnia, Tylicz",
+    "address": "Rynek 23, 33-383 Tylicz, Poland"
+  },
+  "distances": [
+    {
+      "icon": "mdi:snowflake",
+      "name": "Master-Ski ski centre",
+      "value": "500 m"
+    },
+    {
+      "icon": "mdi:ski",
+      "name": "Tylicz-Ski (free ski bus)",
+      "value": "1.9 km"
+    },
+    {
+      "icon": "solar:shop-linear",
+      "name": "Restaurants and shops",
+      "value": "from 50 m"
+    },
+    {
+      "icon": "solar:city-linear",
+      "name": "Krynica-Zdrój town centre",
+      "value": "approx. 10 km"
+    },
+    {
+      "icon": "solar:train-linear",
+      "name": "Krynica-Zdrój railway station",
+      "value": "approx. 8 km"
+    }
+  ],
+  "nearby": [
+    {
+      "name": "Restauracja Tylicka",
+      "distance": "50 m"
+    },
+    {
+      "name": "Restauracja & Pizza Rynek16",
+      "distance": "190 m"
+    },
+    {
+      "name": "Restauracja Pokusa",
+      "distance": "350 m"
+    },
+    {
+      "name": "Wiejska Chata",
+      "distance": "350 m"
+    },
+    {
+      "name": "Góralska Chata u Gogoca",
+      "distance": "400 m"
+    }
+  ],
+  "faq": {
+    "title": "Practical information",
+    "items": [
+      {
+        "icon": "solar:clock-circle-linear",
+        "q": "Check-in and check-out",
+        "a": "Check-in from 15:00 (please let us know your arrival time in advance). Check-out by 11:00."
+      },
+      {
+        "icon": "solar:users-group-rounded-linear",
+        "q": "Children and cots",
+        "a": "Children of all ages are welcome. A cot (0–3 years) is free on request. Extra beds are not available."
+      },
+      {
+        "icon": "mdi:parking",
+        "q": "Parking and WiFi",
+        "a": "Free private parking on site (no reservation needed), with street parking also available. Free WiFi throughout the apartment."
+      },
+      {
+        "icon": "mdi:paw",
+        "q": "Pets",
+        "a": "Pets are allowed by prior arrangement. Extra charges may apply."
+      },
+      {
+        "icon": "solar:wallet-linear",
+        "q": "Damage deposit",
+        "a": "A refundable deposit of 500 PLN is collected in cash on arrival and returned in full at check-out after the apartment has been checked."
+      },
+      {
+        "icon": "solar:forbidden-circle-linear",
+        "q": "Quiet hours, parties and smoking",
+        "a": "Quiet hours are 22:00–6:00. Smoking is not allowed anywhere. No parties, hen or stag nights."
+      }
+    ]
+  },
+  "faqSchema": [
+    {
+      "q": "How far is the ski slope?",
+      "a": "The Master-Ski ski centre is 500 m from the apartment and the Tylicz-Ski station 1.9 km. Free ski buses run around the village."
+    },
+    {
+      "q": "How many guests does the apartment sleep?",
+      "a": "Up to 8 guests: 3 bedrooms plus a sofa bed in the living room."
+    },
+    {
+      "q": "Is parking free?",
+      "a": "Yes. Free private parking is available on site and does not need to be reserved."
+    },
+    {
+      "q": "Can I bring a pet?",
+      "a": "Yes, by prior arrangement. Extra charges may apply."
+    }
+  ],
+  "contact": {
+    "title": "Get in touch",
+    "text": "Message or call us and we'll check availability for your dates and answer any questions.",
+    "phoneLabel": "Phone / WhatsApp",
+    "host": "Your host: Barbara (Polish, English)",
+    "bookingLink": "See the listing and reviews →",
+    "facebookName": "Stara Piekarnia",
+    "formTitle": "Ask about your dates",
+    "formText": "We'll prepare the message for you — choose whether to send it by email or via WhatsApp.",
+    "name": "Name *",
+    "namePlaceholder": "John",
+    "checkin": "Arrival *",
+    "checkout": "Departure *",
+    "guests": "Number of guests *",
+    "message": "Message",
+    "messagePlaceholder": "E.g. we'll be coming with two children and a dog",
+    "whatsappMessage": [
+      "Hello, my name is {name}.",
+      "I'm asking about a stay at Stara Piekarnia: {from} – {to}, {guests} guests."
+    ],
+    "emailLabel": "Email",
+    "submitEmail": "Send by email",
+    "submitWhatsapp": "Send via WhatsApp",
+    "emailSubject": "Stay enquiry: {from} – {to}",
+    "preferDirect": "Prefer to write or call directly?",
+    "copyPhone": "Copy phone number",
+    "copyEmail": "Copy email address",
+    "copied": "Copied",
+    "formTextWhatsapp": "We'll prepare the message for you — send it with one click via WhatsApp."
+  },
+  "footer": {
+    "copyright": "© {year} Stara Piekarnia, Tylicz",
+    "privacy": "Privacy policy"
+  },
+  "cookie": {
+    "text": "This site shows a Google map, which uses cookies. More in our {link}.",
+    "linkText": "privacy policy",
+    "ok": "OK"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "This page doesn't exist or has been moved.",
+    "back": "Back to the home page"
+  },
+  "privacy": {
+    "slug": "privacy-policy",
+    "title": "Privacy policy",
+    "metaTitle": "Privacy policy — Stara Piekarnia, Tylicz",
+    "updated": "Last updated: November 2026",
+    "back": "Back to the home page",
+    "sections": [
+      {
+        "h": "Data controller",
+        "p": [
+          "Your personal data is controlled by {owner}, who rents out the Stara Piekarnia apartment, Rynek 23, 33-383 Tylicz, Poland. Contact: {contact}."
+        ]
+      },
+      {
+        "h": "What data we process and why",
+        "p": [
+          "When you contact us by phone, email or WhatsApp, we process the data you give us (e.g. your name, phone number, email address, dates of stay, number of guests and your message). We do this to answer your enquiry and handle your booking (Art. 6(1)(b) GDPR), to meet legal obligations such as tax rules (Art. 6(1)(c) GDPR) and, if necessary, to pursue claims (Art. 6(1)(f) GDPR).",
+          "The “Ask about your dates” form does not send any data to our server. Clicking a button opens your email program or WhatsApp with the message ready, and you send it from there. If you use WhatsApp, your data is also processed by Meta Platforms Ireland Ltd. under its privacy policy.",
+          "This site does not collect visitor statistics and uses no advertising or marketing tools."
+        ]
+      },
+      {
+        "h": "Third-party services",
+        "p": [
+          "Hosting: the site is served by GitHub Pages (GitHub, Inc.). The server may log IP addresses and browser details for security purposes.",
+          "Google Maps: the “Location” section shows a Google map (Google Ireland Ltd.). Once it loads, Google may set cookies and process your IP address, including outside the European Economic Area. Details: policies.google.com/privacy.",
+          "Icons: some icons on the site are loaded from Iconify (api.iconify.design), which receives your browser's IP address.",
+          "Bookings made through Booking.com are covered by Booking.com's privacy policy."
+        ]
+      },
+      {
+        "h": "How long we keep data",
+        "p": [
+          "We keep enquiry data for as long as needed to reply and to handle your stay. Data required by tax law is kept for the period that law requires (usually 5 years)."
+        ]
+      },
+      {
+        "h": "Your rights",
+        "p": [
+          "You have the right to access, correct, delete and port your data, to restrict its processing and to object to it. To use these rights, contact us: {contact}. You may also lodge a complaint with the Polish data protection authority (Prezes Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warsaw)."
+        ]
+      },
+      {
+        "h": "Cookies and browser storage",
+        "p": [
+          "The site itself does not use cookies. It only stores a note in your browser's local storage that you closed the map notice, so it isn't shown again. The Google map described above may set cookies. You can delete or block them in your browser settings."
+        ]
+      }
+    ]
+  }
+}

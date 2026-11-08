@@ -1,0 +1,45 @@
+{
+  "_help": "Tekst w dwóch językach: \"pl\" i \"en\". Kolejność na liście = kolejność na stronie. \"show\": false ukrywa opinię. \"date\" (opcjonalnie) w formacie RRRR-MM. \"lang\" = język oryginału.",
+  "score": 9.6,
+  "label": {
+    "pl": "Wyjątkowy",
+    "en": "Exceptional"
+  },
+  "reviewCount": 23,
+  "source": "Booking.com",
+  "url": "https://www.booking.com/hotel/pl/stara-piekarnia-tylicz.pl.html",
+  "categories": [
+    {
+      "name": {
+        "pl": "Lokalizacja",
+        "en": "Location"
+      },
+      "score": 9.9
+    },
+    {
+      "name": {
+        "pl": "Udogodnienia",
+        "en": "Facilities"
+      },
+      "score": 9.6
+    }
+  ],
+  "reviews": [
+    {
+      "show": true,
+      "name": "Monika Rosa",
+      "score": 5,
+      "lang": "pl",
+      "source": "Google",
+      "text": {
+        "pl": "Przyjechaliśmy ekipą znajomych na długi weekend pochodzić po górach, nocleg był super i spełnił wszystkie nasze oczekiwania. Wnętrza ładne, czysto, lokalizacja świetna - na samym rynku Tylicza, blisko różnych atrakcji: źródełka wody mineralnej, tężni, górskich szlaków czy bardziej turystycznej Krynicy. Właścicielka jest przemiła i komunikatywna. Polecam gorąco! My sami rozważamy powrót aby pojeździć tym razem na nartach lub zdobyć kolejne okoliczne góry:)",
+        "en": "We came as a group of friends for a long weekend of hiking, and the place was great and met all our expectations. Nice interiors, clean, and a superb location – right on the market square in Tylicz, close to all sorts of attractions: the mineral water spring, the graduation tower, mountain trails and the more touristy Krynica. The owner is lovely and easy to reach. Highly recommended! We're already thinking about coming back, this time to ski or climb more of the nearby peaks :)"
+      }
+    }
+  ],
+  "google": {
+    "score": 5,
+    "reviewCount": 1,
+    "url": "https://maps.app.goo.gl/BnVjcMLZX16y69697"
+  }
+}

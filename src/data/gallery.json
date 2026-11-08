@@ -1,0 +1,132 @@
+{
+  "_help": "Opis zdjęcia (alt) w dwóch językach: \"pl\" i \"en\". Kolejność na liście = kolejność w galerii.",
+  "hero": {
+    "src": "1.jpg",
+    "alt": {
+      "pl": "Salon z aneksem kuchennym w apartamencie Stara Piekarnia w Tyliczu",
+      "en": "Living room and kitchenette at Stara Piekarnia apartment, Tylicz"
+    }
+  },
+  "socialImage": "og-image.jpg",
+  "photos": [
+    {
+      "src": "4.jpg",
+      "alt": {
+        "pl": "Salon z sofą, stolikiem i aneksem kuchennym",
+        "en": "Living room with a sofa, coffee table and kitchenette"
+      }
+    },
+    {
+      "src": "16.jpg",
+      "alt": {
+        "pl": "Salon ze schodami na poddasze",
+        "en": "Living room with stairs to the upper floor"
+      }
+    },
+    {
+      "src": "9.jpg",
+      "alt": {
+        "pl": "Kuchnia z pełnym wyposażeniem",
+        "en": "Fully equipped kitchen"
+      }
+    },
+    {
+      "src": "11.jpg",
+      "alt": {
+        "pl": "Sypialnia z podwójnym łóżkiem",
+        "en": "Bedroom with a double bed"
+      }
+    },
+    {
+      "src": "2.jpg",
+      "alt": {
+        "pl": "Sypialnia na poddaszu z oknem dachowym",
+        "en": "Attic bedroom with a skylight"
+      }
+    },
+    {
+      "src": "12.jpg",
+      "alt": {
+        "pl": "Pojedyncze łóżko pod oknem dachowym",
+        "en": "Single bed under a skylight"
+      }
+    },
+    {
+      "src": "13.jpg",
+      "alt": {
+        "pl": "Pokój z pojedynczymi łóżkami na poddaszu",
+        "en": "Attic room with single beds"
+      }
+    },
+    {
+      "src": "5.jpg",
+      "alt": {
+        "pl": "Sypialnia z telewizorem i szafą",
+        "en": "Bedroom with a TV and wardrobe"
+      }
+    },
+    {
+      "src": "6.jpg",
+      "alt": {
+        "pl": "Pokój z rozkładaną sofą",
+        "en": "Room with a sofa bed"
+      }
+    },
+    {
+      "src": "3.jpg",
+      "alt": {
+        "pl": "Łazienka z prysznicem",
+        "en": "Bathroom with a shower"
+      }
+    },
+    {
+      "src": "7.jpg",
+      "alt": {
+        "pl": "Łazienka: umywalka i toaleta",
+        "en": "Bathroom: washbasin and toilet"
+      }
+    },
+    {
+      "src": "8.jpg",
+      "alt": {
+        "pl": "Kabina prysznicowa",
+        "en": "Walk-in shower"
+      }
+    },
+    {
+      "src": "15.jpg",
+      "alt": {
+        "pl": "Przedpokój",
+        "en": "Hallway"
+      }
+    },
+    {
+      "src": "14.jpg",
+      "alt": {
+        "pl": "Schody na poddasze",
+        "en": "Stairs to the upper floor"
+      }
+    },
+    {
+      "src": "18.jpg",
+      "alt": {
+        "pl": "Wnętrze z drewnianym sufitem",
+        "en": "Interior with a wooden ceiling"
+      }
+    },
+    {
+      "src": "10.jpg",
+      "alt": {
+        "pl": "Stare fotografie Tylicza na ścianie",
+        "en": "Old photographs of Tylicz on the wall"
+      }
+    },
+    {
+      "src": "17.jpg",
+      "alt": {
+        "pl": "Zimowy widok z okna",
+        "en": "Winter view from the window"
+      }
+    }
+  ]
+}

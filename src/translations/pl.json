@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "htmlLang": "pl",
+    "ogLocale": "pl_PL",
+    "title": "Stara Piekarnia — apartament przy rynku w Tyliczu",
+    "description": "Apartament 80 m² przy samym rynku w Tyliczu. 3 sypialnie, do 8 osób, 500 m od stoku Master-Ski. Ocena {score}/10 na Booking.com. Parking i WiFi gratis.",
+    "keywords": "apartament Tylicz, nocleg Tylicz, noclegi Tylicz rynek, Stara Piekarnia Tylicz, nocleg blisko stoku Tylicz, apartament Master-Ski",
+    "ogTitle": "Stara Piekarnia — apartament przy rynku w Tyliczu",
+    "ogDescription": "Samodzielny apartament 80 m² przy rynku w Tyliczu. 3 sypialnie, do 8 osób, 500 m od stoku Master-Ski.",
+    "schemaDescription": "Samodzielny apartament 80 m² z prywatnym wejściem przy rynku w Tyliczu. 3 sypialnie, salon z rozkładaną sofą, pełna kuchnia, łazienka z prysznicem. Do 8 osób. 500 m od Centrum Narciarskiego Master-Ski."
+  },
+  "langSwitch": {
+    "label": "Wybierz język"
+  },
+  "nav": [
+    {
+      "href": "#about",
+      "label": "Apartament"
+    },
+    {
+      "href": "#gallery",
+      "label": "Galeria"
+    },
+    {
+      "href": "#reviews",
+      "label": "Opinie"
+    },
+    {
+      "href": "#location",
+      "label": "Lokalizacja"
+    },
+    {
+      "href": "#faq",
+      "label": "Informacje"
+    }
+  ],
+  "cta": {
+    "contact": "Skontaktuj się",
+    "seePhotos": "Zobacz zdjęcia",
+    "call": "Zadzwoń"
+  },
+  "a11y": {
+    "logo": "Stara Piekarnia — logo",
+    "menu": "Menu",
+    "closeMenu": "Zamknij menu",
+    "prevReviews": "Poprzednie opinie",
+    "nextReviews": "Następne opinie",
+    "close": "Zamknij",
+    "prevPhoto": "Poprzednie zdjęcie",
+    "nextPhoto": "Następne zdjęcie",
+    "photo": "Zdjęcie apartamentu",
+    "photoCounter": "{n} z {total}"
+  },
+  "hero": {
+    "subtitle": "Tylicz · przy samym rynku",
+    "text": "80 m² dla maksymalnie 8 osób: 3 sypialnie, salon z rozkładaną sofą, w pełni wyposażona kuchnia i bezpłatny parking. Do stoku Master-Ski 500 m, a restauracje i sklepy macie kilka kroków od drzwi.",
+    "ratingBadge": "{label} · {count} · {source}"
+  },
+  "facts": [
+    {
+      "icon": "solar:home-angle-linear",
+      "label": "80 m²"
+    },
+    {
+      "icon": "solar:bed-linear",
+      "label": "3 sypialnie"
+    },
+    {
+      "icon": "solar:bath-linear",
+      "label": "Łazienka z prysznicem"
+    },
+    {
+      "icon": "solar:users-group-rounded-linear",
+      "label": "Do 8 osób"
+    },
+    {
+      "icon": "mdi:parking",
+      "label": "Darmowy parking"
+    },
+    {
+      "icon": "mdi:wifi",
+      "label": "Darmowe WiFi"
+    }
+  ],
+  "about": {
+    "eyebrow": "O apartamencie",
+    "title": "Samodzielny apartament w sercu Tylicza",
+    "text": "Stara Piekarnia to cały apartament tylko dla Was, z prywatnym wejściem, tuż przy rynku. Zimą macie blisko na stok Master-Ski, a po miejscowości kursują darmowe ski-busy. Latem czekają szlaki górskie i rowerowe, mofety i wieża widokowa w Krynicy. Dobre miejsce na rodzinny wyjazd albo weekend ze znajomymi.",
+    "imgLiving": "Salon z sofą i aneksem kuchennym",
+    "imgKitchen": "W pełni wyposażona kuchnia"
+  },
+  "amenities": [
+    {
+      "icon": "solar:bed-linear",
+      "title": "3 sypialnie",
+      "text": "Łóżko małżeńskie z pojedynczym, dwa pojedyncze oraz duże łóżko podwójne. W salonie rozkładana sofa."
+    },
+    {
+      "icon": "solar:bath-linear",
+      "title": "Łazienka",
+      "text": "Prysznic, suszarka do włosów, ręczniki i pościel na miejscu."
+    },
+    {
+      "icon": "solar:chef-hat-linear",
+      "title": "Pełna kuchnia",
+      "text": "Zmywarka, lodówka, płyta, mikrofala, czajnik i komplet naczyń."
+    },
+    {
+      "icon": "solar:tv-linear",
+      "title": "Salon",
+      "text": "Telewizor z kanałami satelitarnymi i serwisem streamingowym, sofa i stół dla całej ekipy."
+    },
+    {
+      "icon": "mdi:washing-machine",
+      "title": "Pralka i żelazko",
+      "text": "Do tego suszarka na ubrania. Przydadzą się przy dłuższym pobycie."
+    },
+    {
+      "icon": "mdi:teddy-bear",
+      "title": "Dla rodzin",
+      "text": "Łóżeczko dziecięce gratis (0–3 lata), gry planszowe i książki dla dzieci."
+    },
+    {
+      "icon": "mdi:paw",
+      "title": "Zwierzęta",
+      "text": "Mile widziane po uzgodnieniu. Na miejscu miski i legowisko dla pupila."
+    },
+    {
+      "icon": "solar:key-linear",
+      "title": "Prywatne wejście",
+      "text": "Apartament jest samodzielny. Zameldowanie i wymeldowanie bez recepcji."
+    }
+  ],
+  "gallery": {
+    "title": "Galeria zdjęć",
+    "hint": "Kliknij zdjęcie, aby je powiększyć."
+  },
+  "reviews": {
+    "title": "Opinie naszych gości",
+    "summary": "{label} · {count}",
+    "quote": "„{text}”",
+    "swipeHint": "Przesuń, aby zobaczyć więcej",
+    "translatedFrom": {
+      "pl": "Przetłumaczono z polskiego",
+      "en": "Przetłumaczono z angielskiego"
+    },
+    "countForms": {
+      "one": "{n} opinia",
+      "few": "{n} opinie",
+      "many": "{n} opinii",
+      "other": "{n} opinii"
+    }
+  },
+  "location": {
+    "title": "Lokalizacja",
+    "text": "Rynek 23, w samym centrum Tylicza. Stok, restauracje, sklepy, poczta i kościół macie w zasięgu krótkiego spaceru.",
+    "nearbyTitle": "Restauracje w pobliżu",
+    "openInMaps": "Otwórz w Mapach Google",
+    "mapTitle": "Mapa: Stara Piekarnia, Tylicz",
+    "address": "Rynek 23, 33-383 Tylicz"
+  },
+  "distances": [
+    {
+      "icon": "mdi:snowflake",
+      "name": "Centrum Narciarskie Master-Ski",
+      "value": "500 m"
+    },
+    {
+      "icon": "mdi:ski",
+      "name": "Stacja Tylicz-Ski (darmowy ski-bus)",
+      "value": "1,9 km"
+    },
+    {
+      "icon": "solar:shop-linear",
+      "name": "Restauracje i sklepy",
+      "value": "od 50 m"
+    },
+    {
+      "icon": "solar:city-linear",
+      "name": "Krynica-Zdrój, centrum",
+      "value": "ok. 10 km"
+    },
+    {
+      "icon": "solar:train-linear",
+      "name": "Dworzec PKP Krynica-Zdrój",
+      "value": "ok. 8 km"
+    }
+  ],
+  "nearby": [
+    {
+      "name": "Restauracja Tylicka",
+      "distance": "50 m"
+    },
+    {
+      "name": "Restauracja & Pizza Rynek16",
+      "distance": "190 m"
+    },
+    {
+      "name": "Restauracja Pokusa",
+      "distance": "350 m"
+    },
+    {
+      "name": "Wiejska Chata",
+      "distance": "350 m"
+    },
+    {
+      "name": "Góralska Chata u Gogoca",
+      "distance": "400 m"
+    }
+  ],
+  "faq": {
+    "title": "Informacje praktyczne",
+    "items": [
+      {
+        "icon": "solar:clock-circle-linear",
+        "q": "Godziny zameldowania",
+        "a": "Zameldowanie od 15:00 (prosimy o wcześniejszą informację o godzinie przyjazdu). Wymeldowanie do 11:00."
+      },
+      {
+        "icon": "solar:users-group-rounded-linear",
+        "q": "Dzieci i łóżeczko",
+        "a": "Dzieci w każdym wieku mile widziane. Łóżeczko dziecięce (0–3 lata) bezpłatnie, na życzenie. Dodatkowe łóżka nie są dostępne."
+      },
+      {
+        "icon": "mdi:parking",
+        "q": "Parking i WiFi",
+        "a": "Bezpłatny prywatny parking na miejscu (bez rezerwacji), można też parkować przy ulicy. Bezpłatne WiFi w całym apartamencie."
+      },
+      {
+        "icon": "mdi:paw",
+        "q": "Zwierzęta",
+        "a": "Zwierzęta są akceptowane po wcześniejszym uzgodnieniu. Mogą obowiązywać dodatkowe opłaty."
+      },
+      {
+        "icon": "solar:wallet-linear",
+        "q": "Kaucja",
+        "a": "Przy przyjeździe pobieramy zwrotną kaucję 500 zł w gotówce. Zwracamy ją w całości przy wymeldowaniu, po sprawdzeniu apartamentu."
+      },
+      {
+        "icon": "solar:forbidden-circle-linear",
+        "q": "Cisza nocna, imprezy i palenie",
+        "a": "Cisza nocna 22:00–6:00. Całkowity zakaz palenia. Nie organizujemy imprez, wieczorów panieńskich ani kawalerskich."
+      }
+    ]
+  },
+  "faqSchema": [
+    {
+      "q": "Jak daleko jest do stoku narciarskiego?",
+      "a": "Centrum Narciarskie Master-Ski znajduje się 500 m od apartamentu, a stacja Tylicz-Ski 1,9 km. Po miejscowości kursują darmowe ski-busy."
+    },
+    {
+      "q": "Ile osób pomieści apartament?",
+      "a": "Apartament pomieści do 8 osób: 3 sypialnie i rozkładana sofa w salonie."
+    },
+    {
+      "q": "Czy parking jest bezpłatny?",
+      "a": "Tak. Bezpłatny prywatny parking jest dostępny na miejscu i nie wymaga rezerwacji."
+    },
+    {
+      "q": "Czy można przyjechać ze zwierzęciem?",
+      "a": "Tak, po wcześniejszym uzgodnieniu. Mogą obowiązywać dodatkowe opłaty."
+    }
+  ],
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "text": "Napisz lub zadzwoń, a sprawdzimy dostępność w Waszym terminie i odpowiemy na pytania.",
+    "phoneLabel": "Telefon / WhatsApp",
+    "host": "Gospodyni: Barbara (PL, EN)",
+    "bookingLink": "Zobacz ofertę i opinie →",
+    "facebookName": "Stara Piekarnia",
+    "formTitle": "Zapytaj o termin",
+    "formText": "Wiadomość przygotujemy za Ciebie — wybierz, czy wysłać ją e-mailem, czy przez WhatsApp.",
+    "name": "Imię *",
+    "namePlaceholder": "Jan",
+    "checkin": "Przyjazd *",
+    "checkout": "Wyjazd *",
+    "guests": "Liczba osób *",
+    "message": "Wiadomość",
+    "messagePlaceholder": "Np. przyjedziemy z dwójką dzieci i psem",
+    "whatsappMessage": [
+      "Dzień dobry, nazywam się {name}.",
+      "Pytam o pobyt w apartamencie Stara Piekarnia: {from} – {to}, {guests} os."
+    ],
+    "emailLabel": "E-mail",
+    "submitEmail": "Wyślij e-mailem",
+    "submitWhatsapp": "Wyślij przez WhatsApp",
+    "emailSubject": "Zapytanie o pobyt: {from} – {to}",
+    "preferDirect": "Wolisz napisać lub zadzwonić bezpośrednio?",
+    "copyPhone": "Kopiuj numer telefonu",
+    "copyEmail": "Kopiuj adres e-mail",
+    "copied": "Skopiowano",
+    "formTextWhatsapp": "Wiadomość przygotujemy za Ciebie — wyślesz ją jednym kliknięciem przez WhatsApp."
+  },
+  "footer": {
+    "copyright": "© {year} Stara Piekarnia, Tylicz",
+    "privacy": "Polityka prywatności"
+  },
+  "cookie": {
+    "text": "Na stronie wyświetlamy mapę Google, która korzysta z plików cookie. Więcej w {link}.",
+    "linkText": "polityce prywatności",
+    "ok": "Rozumiem"
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "text": "Ta strona nie istnieje albo została przeniesiona.",
+    "back": "Wróć na stronę główną"
+  },
+  "privacy": {
+    "slug": "polityka-prywatnosci",
+    "title": "Polityka prywatności",
+    "metaTitle": "Polityka prywatności — Stara Piekarnia Tylicz",
+    "updated": "Ostatnia aktualizacja: listopad 2026",
+    "back": "Wróć na stronę główną",
+    "sections": [
+      {
+        "h": "Administrator danych",
+        "p": [
+          "Administratorem Twoich danych osobowych jest {owner}, wynajmujący(-a) apartament Stara Piekarnia, Rynek 23, 33-383 Tylicz. Kontakt: {contact}."
+        ]
+      },
+      {
+        "h": "Jakie dane przetwarzamy i w jakim celu",
+        "p": [
+          "Gdy kontaktujesz się z nami telefonicznie, e-mailem lub przez WhatsApp, przetwarzamy dane, które sam podajesz (np. imię, numer telefonu, adres e-mail, termin pobytu, liczbę osób, treść wiadomości). Robimy to, aby odpowiedzieć na zapytanie i obsłużyć rezerwację (art. 6 ust. 1 lit. b RODO), a także aby wypełnić obowiązki prawne, np. podatkowe (art. 6 ust. 1 lit. c RODO), i w razie potrzeby dochodzić roszczeń (art. 6 ust. 1 lit. f RODO).",
+          "Formularz „Zapytaj o termin” nie wysyła danych na nasz serwer. Po kliknięciu przycisku otwiera się Twój program pocztowy albo WhatsApp z gotową wiadomością, a jej wysłanie odbywa się już w tym programie. W przypadku WhatsApp dane przetwarza także Meta Platforms Ireland Ltd. na zasadach swojej polityki prywatności.",
+          "Strona nie zbiera statystyk odwiedzin i nie korzysta z reklam ani narzędzi marketingowych."
+        ]
+      },
+      {
+        "h": "Usługi zewnętrzne",
+        "p": [
+          "Hosting: stronę udostępnia GitHub Pages (GitHub, Inc.). Serwer może zapisywać adres IP i dane przeglądarki w celach bezpieczeństwa.",
+          "Mapa Google: w sekcji „Lokalizacja” wyświetlamy mapę Google (Google Ireland Ltd.). Po jej załadowaniu Google może zapisywać pliki cookie i przetwarzać Twój adres IP, również poza Europejskim Obszarem Gospodarczym. Szczegóły: policies.google.com/privacy.",
+          "Ikony: część ikon na stronie jest pobierana z serwisu Iconify (api.iconify.design), który otrzymuje przy tym adres IP przeglądarki.",
+          "Rezerwacje dokonywane przez Booking.com podlegają polityce prywatności Booking.com."
+        ]
+      },
+      {
+        "h": "Jak długo przechowujemy dane",
+        "p": [
+          "Dane z zapytań przechowujemy tak długo, jak jest to potrzebne do odpowiedzi i realizacji pobytu. Dane, których wymagają przepisy podatkowe, przechowujemy przez okres wynikający z tych przepisów (zwykle 5 lat)."
+        ]
+      },
+      {
+        "h": "Twoje prawa",
+        "p": [
+          "Masz prawo dostępu do swoich danych, ich sprostowania, usunięcia, ograniczenia przetwarzania i przenoszenia oraz prawo wniesienia sprzeciwu. Aby z nich skorzystać, skontaktuj się z nami: {contact}. Przysługuje Ci też prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (ul. Stawki 2, 00-193 Warszawa)."
+        ]
+      },
+      {
+        "h": "Pliki cookie i pamięć przeglądarki",
+        "p": [
+          "Sama strona nie używa plików cookie. W pamięci przeglądarki (localStorage) zapisuje jedynie informację, że zamknąłeś komunikat o mapie, aby nie pokazywać go ponownie. Pliki cookie może zapisywać mapa Google opisana wyżej. Możesz je usunąć lub zablokować w ustawieniach przeglądarki."
+        ]
+      }
+    ]
+  }
+}
